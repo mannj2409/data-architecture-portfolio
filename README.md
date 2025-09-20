@@ -73,7 +73,7 @@ This portfolio is shared under the **MIT License** – feel free to use referenc
 ---
 
 ## 🙋 About
-Created by **Jyoti Mann* – Data & Analytics Architect.  
+Created by Jyoti Mann – Data & Analytics Architect.  
 I specialize in designing **scalable data platforms** that balance IT priorities (security, automation, compliance) with business goals (faster insights, measurable ROI, innovation).  
 
 ---
